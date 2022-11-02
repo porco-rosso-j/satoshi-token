@@ -1,0 +1,19 @@
+abi/
+addresses/
+artifacts/
+contracts/Migrations.sol
+node_modules/
+scripts/testnet
+src/index.js
+src/index_1.js
+src/index_2.js
+src/index_3.js
+src/index_4.js
+src/index_5.js
+src/index.html
+test/satoshi-test_fee.js
+/truffle-config.js
+
+// credential info
+/secret.json
+
